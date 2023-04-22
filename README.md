@@ -74,20 +74,20 @@
 
 # <b>Coding Profiles </b><br>
 <div >
-    <a href="">
+    <a href="https://leetcode.com/Shivam_Parashar">
         <img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="leetcode profile" width="250">
     </a>
     <a href="">
         <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
     </a>
-    <a href="https://codeforces.com/profile/kajal.rathore_cs20">
+    <a href="https://codeforces.com/profile/Shivam_Parashar">
         <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="codeforces profile" width="200">
     </a>
-    <a href="https://www.codechef.com/users/kajal_rathore">
+    <a href="https://www.codechef.com/users/shivam2984">
         <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef profile" width="200">
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/kajalrathorecs20/">
-        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
+    <a href="https://auth.geeksforgeeks.org/user/shivamparasharcs20/">
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="gfg" width="200">
     </a>
 </div>
 
@@ -118,7 +118,7 @@
 <br>
 <div align='left'>
 
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/mwlite/in/shivam-parashar-7109a2217" target="_blank">
 <img src="https://icongr.am/devicon/linkedin-original.svg?size=100&color=currentColor" alt=linkedin style="margin: 5px;"/>
 </a>
 
