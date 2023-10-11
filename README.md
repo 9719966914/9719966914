@@ -17,7 +17,7 @@
 - A passionate Full-Stack developer
 - Working on enhancing my programming skills
 - Currently looking for a job
-- Personal website [link] "https://9719966914.github.io/my-portfolio/"
+- Personal website [link] "https://9719966914.github.io/shivam_parashar_portfolio/"
 
 
 <br><br>
